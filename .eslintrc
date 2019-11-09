@@ -1,0 +1,8 @@
+{ 
+    "extends": "react-native-wcandillon",
+    "rules" : {
+        "@typescript-eslint/no-use-before-define" : 0,
+        "eslint-disable-next-line prettier/prettier" : 0,
+        "no-use-before-define" : 0
+    }
+} 
